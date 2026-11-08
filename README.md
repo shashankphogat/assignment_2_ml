@@ -40,7 +40,7 @@ https://github.com/shashankphogat/assignment_2_ml
 **Overall Winner:** Support Vector Machine — highest on all six metrics; recall is 0.9286 (tied with LogReg), everything else SVM leads. The margin over LogReg is small (~0.9 pp accuracy), consistent with this dataset being nearly linearly separable.
 
 ## e. Live Streamlit App
-https://<app-name>.streamlit.app
+https://shashankphogatmlassignment2.streamlit.app
 
 ## f. How to Run Locally
 ```bash
